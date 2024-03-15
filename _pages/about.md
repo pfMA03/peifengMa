@@ -1,6 +1,6 @@
 ---
 permalink: /
-title: "About Me"
+title: "Bio"
 author_profile: true
 redirect_from: 
   - /about/
@@ -9,8 +9,9 @@ redirect_from:
 
 This is Dr. Test Account's home on the web!
 
-Bio
+
 ======
+
 
 Research Interests
 ======
@@ -21,19 +22,3 @@ Research Interests
 1. Carbon neutrality
 1. Sustainable cities and communities
 
-#Site-wide configuration
-------
-
-#Create content & metadata
-------
-
-
-#**Markdown generator**
-
-
-#How to edit your site's GitHub repository
-------
-
-
-#For more info
-------
