@@ -11,28 +11,23 @@ redirect_from:
 
 Education
 ======
-* Ph.D in Version Control Theory, GitHub University, 2018 (expected)
-* M.S. in Jekyll, GitHub University, 2014
-* B.S. in GitHub, GitHub University, 2012
+* Ph.D Earth System and Geoinformation Science, The Chinese University of Hong Kong, 2016
+* M.S. Signal and Information Processing, Chinese Academy of Sciences, 2012
+* B.S. Geographic Information System, Nanjing University of Technology, 2009
 
 Work experience
 ======
-* Spring 2024: Academic Pages Collaborator
-  * Github University
-  * Duties includes: Updates and improvements to template
-  * Supervisor: The Users
+* 08/2022-Present: Vice-Chancellor Assistant Professor
 
-* Fall 2015: Research Assistant
-  * Github University
-  * Duties included: Merging pull requests
-  * Supervisor: Professor Hub
+* 03/2019-08/2019: Visiting Scholar, Politecnico di Milano, Milan, Italy
+  
 
-* Summer 2015: Research Assistant
+* 02/2016-07/2022: Research Assistant
   * Github University
   * Duties included: Tagging issues
   * Supervisor: Professor Git
   
-Skills
+Awards Received by Mentored Students
 ======
 * Skill 1
 * Skill 2
