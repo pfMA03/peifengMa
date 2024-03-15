@@ -10,7 +10,6 @@ redirect_from:
 This is Dr. Test Account's home on the web!
 
 
-======
 
 
 Research Interests
