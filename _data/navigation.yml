@@ -12,8 +12,9 @@ main:
   - title: "Projects"
     url: /projects/
         
-  #- title: "Blog Posts"
+  - title: "Patents"
     url: /year-archive/
+    
     
   - title: "Team"
     url: /team/
