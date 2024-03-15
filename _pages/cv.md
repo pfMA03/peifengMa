@@ -18,9 +18,7 @@ Education
 Work experience
 ======
 * 08/2022-Present: Vice-Chancellor Assistant Professor,Department of Geography and Resource Management,The Chinese University of Hong Kong, Hong Kong
-
 * 03/2019-08/2019: Visiting Scholar, Politecnico di Milano, Milan, Italy
-  
 * 02/2016-07/2022: Research Assistant,AXA Post-Doctoral Fellow, Institute of Space and Earth Information Science, The Chinese University of Hong Kong, Hong Kong
 
 Teaching
