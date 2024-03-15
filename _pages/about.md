@@ -7,7 +7,7 @@ redirect_from:
   - /about.html
 ---
 
-This is Dr. Test Account's home on the web!introduce
+This is Dr. PF's home on the web!introduce
 
 
 Research Interests
@@ -19,6 +19,8 @@ Research Interests
 * Carbon neutrality
 * Sustainable cities and communities
 
-opening
+
+
+Opening
 ======
-Students who are interested in the following opportunities should contact Dr. PF (@cuhk.hk) with a CV and potential research ideas or proposals.
+I am currently recruiting postdoctoral fellow, postgraduate student and research assistant with the background of computer science, SAR/InSAR remote sensing, GIS, and signal and information processing. Please contact me via email if you have the interests.
