@@ -7,9 +7,7 @@ redirect_from:
   - /about.html
 ---
 
-This is Dr. Test Account's home on the web!
-
-
+This is Dr. Test Account's home on the web!introduce
 
 
 Research Interests
@@ -21,3 +19,6 @@ Research Interests
 * Carbon neutrality
 * Sustainable cities and communities
 
+opening
+======
+Students who are interested in the following opportunities should contact Dr. PF (@cuhk.hk) with a CV and potential research ideas or proposals.
