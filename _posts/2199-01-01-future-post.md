@@ -1,11 +1,10 @@
 ---
-title: 'Future Blog Post'
-date: 2199-01-01
-permalink: /posts/2012/08/blog-post-4/
+title: 'Highlights'
+
 tags:
   - cool posts
   - category1
   - category2
 ---
 
-This post will show up by default. To disable scheduling of future posts, edit `config.yml` and set `future: false`. 
+As PI/PC, Peifeng Ma has secured more than HK$ 40 million research grants, including 4 RGC GRF grants (more than HK$ 2.7 million in total), 4 ITF grants (more than HK$ 33 million), 2 NSFC grants (more than RMB 0.8 million in total).
