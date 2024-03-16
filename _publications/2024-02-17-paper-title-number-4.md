@@ -1,6 +1,6 @@
 ---
 title: "Books"
-collection: publications
+#collection: publications
 #permalink: /publications/2024-02-17-paper-title-number-4
 #excerpt: 'Ma, P., Cui, Y., Wang, W., Lin, H., Zhang, Y., & Zheng, Y. Landslide Movement Monitoring with InSAR Technologies. Landslides Chapter 10, BoD–Books on Demand, 2022.'
 #excerpt: 'Lin Hui and Ma, P., Introduction of InSAR technologies and applications for urban infrastructural health monitoring, Science Press, 2021 (Chinese).'
