@@ -1,6 +1,6 @@
 ---
 title: 'Highlights'
-
+permalink: /posts/2012/08/blog-post-4/
 
 ---
 
