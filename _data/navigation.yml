@@ -1,19 +1,16 @@
 # main links links
 main:
   - title: "CV"
-    url: /cv/
-
-  #- title: "Talks"
-    #url: /talks/    
+    url: /cv/   
 
   - title: "Publications"
     url: /publications/    
     
   - title: "Projects"
-    url: /projects/
+    url: /year-archive/
         
   - title: "Patents"
-    url: /year-archive/
+    url: /talks/
     
     
   - title: "Team"
