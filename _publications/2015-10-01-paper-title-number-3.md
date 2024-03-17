@@ -10,7 +10,7 @@ permalink: /publication/2015-10-01-paper-title-number-3
 ---
 
 * [J47] Ma, P.*, Wu, Z., Zhang, Z., & Au, F., 2024. SAR-Transformer-based decomposition of time-
-series InSAR signals for evaluating the impacts of Geotechnical, Meteorological, and Marine conditions on the Hong Kong-Zhuhai-Macao Bridge’s deformations. Remote Sensing ofEnvironment, 302, 113962.[(https://doi.org/10.1016/j.rse.2023.113962)]
+series InSAR signals for evaluating the impacts of Geotechnical, Meteorological, and Marine conditions on the Hong Kong-Zhuhai-Macao Bridge’s deformations. Remote Sensing ofEnvironment, 302, 113962. [check the paper](https://doi.org/10.1016/j.rse.2023.113962)
 * [J46] Wu, Z., Zhang, X., Ye, G., & Ma, P.*, 2024. Efficient management and processing of massive InSAR images using an HPC-based cloud platform. IEEE Journal of Selected Topics in
 Applied Earth Observations and Remote Sensing.
 * [J45] Wu, Z., Zhang, X., Cai, J., Ma, P.*, & Kwan, M.-P., 2023. Understanding spatially non- stationary effects of natural and human-induced factors on land subsidence based on InSAR and multi-source geospatial data: A case study in the Guangdong-Hong Kong-Macao Greater Bay Area. International Journal of Digital Earth, 16(2): 4404-4427.
