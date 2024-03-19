@@ -1,5 +1,5 @@
 ---
-# title: "Patents"
+# title: "Software Patents"
 # excerpt: "Invention Patents"
 # collection: portfolio
 ---
