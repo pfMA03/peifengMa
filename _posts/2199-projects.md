@@ -1,6 +1,6 @@
 ---
 title: "Projects"
-permalink: /posts/2199-projects
+permalink: /posts/2199-projects/
 tags:
  - cool posts
   - category1
