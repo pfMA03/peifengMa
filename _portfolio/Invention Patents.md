@@ -1,6 +1,5 @@
 ---
- title: "Invention Patents"
- # excerpt: "Invention Patents"
+ title: Invention Patents
  collection: portfolio
 ---
 
