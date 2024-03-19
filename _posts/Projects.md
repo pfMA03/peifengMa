@@ -1,7 +1,7 @@
 ---
 title: "Projects"
 # date: 2015-08-14
-permalink: /Projects/
+permalink: /post/
 tags:
   - cool posts
   - category1
