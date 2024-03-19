@@ -1,9 +1,8 @@
 ---
 title: "Journals"
 collection: publications
-permalink: /publication/Journails
-#venue: 'Journal 1'
-#paperurl: 'http://academicpages.github.io/files/paper3.pdf'
+permalink: /publication/2015-Journails
+
 ---
 
 * [47] Ma, P.*, Wu, Z., Zhang, Z., & Au, F., 2024. [SAR-Transformer-based decomposition of time-
