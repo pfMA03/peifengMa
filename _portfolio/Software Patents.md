@@ -1,6 +1,6 @@
 ---
 title: "Software Patents"
-collection: portfolio
+collection: /portfolio/Software Patents
 ---
 
 * [06] Ma, P., eSat V1.0 (No. 2021Sr0890683)
