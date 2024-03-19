@@ -1,5 +1,5 @@
 ---
-title: "Projects"
+title: 'Projects'
 # date: 2015-08-14
 permalink: /post/Projects
 tags:
