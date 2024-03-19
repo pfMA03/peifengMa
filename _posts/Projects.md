@@ -1,6 +1,5 @@
 ---
 title: 'Projects'
-# date: 2015-08-14
 permalink: /posts/Projects
 tags:
   - cool posts
