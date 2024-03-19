@@ -1,6 +1,6 @@
 ---
-title: 'Projects'
-permalink: /posts/2012/08/blog-post-4/
+# title: 'Projects'
+# permalink: /posts/2012/08/blog-post-4/
 tags:
   - cool posts
    - category1
