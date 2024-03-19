@@ -1,5 +1,5 @@
 ---
-# title: "Projects"
+title: "Projects"
 collection: posts
 permalink: /posts/2018-Projects
 # tags:
