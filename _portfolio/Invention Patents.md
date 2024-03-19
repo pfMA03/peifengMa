@@ -1,6 +1,6 @@
 ---
  title: "Invention Patents"
- collection: portfolio
+ collection: /portfolio/Invention Patents
 ---
 
 * [06] Ma, P., Zheng Y., Zhang Z., Wu Z., Yu Ch., A method based on InSAR technology to
