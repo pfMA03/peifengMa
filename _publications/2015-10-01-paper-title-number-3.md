@@ -20,8 +20,8 @@ of Environment_, 302, 113962.
   natural and human-induced factors on land subsidence based on InSAR and multi-source geospatial data: A case study
   in the Guangdong-Hong Kong-Macao Greater Bay Area](https://doi.org/10.1080/17538947.2023.2271882). _International Journal
   of Digital Earth_, 16(2): 4404-4427.
-* [44] Chen, F., Guo, H., Ma, P., Tang, Y., Wu, F., Zhu, M., …, & Lin, H., 2023. [Sustainable development of World Cultural Heritage sites
-  in China estimated from optical and SAR remotely sensed data](https://doi.org/10.1016/j.rse.2023.113838). _Remote Sensing
+* [44] Chen, F., Guo, H., Ma, P., Tang, Y., Wu, F., Zhu, M., …, & Lin, H., 2023. [Sustainable development of
+  World Cultural Heritage sites in China estimated from optical and SAR remotely sensed data](https://doi.org/10.1016/j.rse.2023.113838). _Remote Sensing
   of Environment_, 298: 113838.
 * [43] Chen, L., Ma, P.*, Yu, C., Zheng, Y., Zhu, Q., & Ding, Y., 2023. [Landslide susceptibility assessment in
   multiple urban slope settings with a landslide inventory augmented by InSAR techniques](https://doi.org/10.1016/j.enggeo.2023.107342).
@@ -30,9 +30,9 @@ of Environment_, 302, 113962.
   the land surface temperature in Hong Kong during 2017-2022? Evidence from remote sensing and land use data](https://doi.org/10.3390/su152115511).
   _Sustainability_, 15(21), 15511.
 * [41] Mao, W., Wang, X., Liu, G., Pirasteh, S., Zhang, R., Lin, H., …, & Ma, P., 2023. [Time Series
-InSAR Ionospheric Delay Estimation, Correction, and Ground Deformation Monitoring with
-Reformulating Range Split-Spectrum Interferometry](10.1109/TGRS.2023.3298919). _IEEE Transactions on Geoscience and
-Remote Sensing_, 61, 1-18.
+  InSAR Ionospheric Delay Estimation, Correction, and Ground Deformation Monitoring with
+  Reformulating Range Split-Spectrum Interferometry](10.1109/TGRS.2023.3298919). _IEEE Transactions on Geoscience and
+  Remote Sensing_, 61, 1-18.
 * [40] Mao, W., Wang, X., Liu, G., Ma, P., Zhang, R., Ma, Z., …, & Lin, H., 2023. [Ionospheric
 Phase Delay Correction for Time Series Multi-aperture InSAR Constrained by Polynomial
 Deformation Model](10.1109/LGRS.2023.3281343). _IEEE Geoscience and Remote Sensing Letters_, 20, 1-5.
@@ -66,11 +66,14 @@ _International Journal of Applied Earth Observation and Geoinformation_, 103, 10
 * [30] Wu, Z., Zhao, Z., Ma, P.*, & Huang, B., 2021. [Real-World DEM Super-Resolution based on Generative Adversarial Networks
   for Improving InSAR Topographic Phase Simulation](10.1109/JSTARS.2021.3105123). _IEEE Journal of Selected
   Topics in Applied Earth Observations and Remote Sensing_, 14, 8373-8385. 
-* [29] Ma, P., Cui, Y., Wang, W., Lin, H., & Zhang, Y., 2021. Coupling InSAR and numerical modeling for characterizing landslide movements under complex loads in urbanized hillslopes. Landslides, 1-13.
+* [29] Ma, P., Cui, Y., Wang, W., Lin, H., & Zhang, Y., 2021. [Coupling InSAR and numerical modeling for characterizing
+  landslide movements under complex loads in urbanized hillslopes](https://link.springer.com/article/10.1007/s10346-020-01604-2). _Landslides_, 1-13.
 * [28] Shi, G., Ma, P.*, Hu, X., Huang, B., & Lin, H., 2021. [Surface response and subsurface features
 during the restriction of groundwater exploitation in Suzhou (China) inferred from decadal
 SAR interferometry](https://doi.org/10.1016/j.rse.2021.112327). _Remote Sensing of Environment_, 256, 112327.
-* [27] Chen, F., Guo, H., Tapete, D., Masini, N., Cigna, F., Lasaponara, R., ... & Ma, P., 2021. [Interdisciplinary approaches based on imaging radar enable cutting-edge cultural heritage applications](https://doi.org/10.1093/nsr/nwab123). _National Science Review_, 8(9), nwab123.
+* [27] Chen, F., Guo, H., Tapete, D., Masini, N., Cigna, F., Lasaponara, R., ... & Ma, P., 2021. [Interdisciplinary approaches
+  based on imaging radar enable cutting-edge cultural heritage applications](https://doi.org/10.1093/nsr/nwab123).
+  _National Science Review_, 8(9), nwab123.
 * [26] Ma, P., Zhang, F., Lin, H., 2020. [Prediction of InSAR time-series deformation using deep convolutional neural networks](https://doi.org/10.1080/2150704X.2019.1692390). _Remote Sensing Letters_, 11, 137-145.
 * [25] Shi, G., Ma, P., Lin, H., Huang, B., Zhang, B., Liu, Y., 2020. [Potential of Using Phase
 Correlation in Distributed Scatterer InSAR Applied to Built Scenarios](https://doi.org/10.3390/rs12040686
@@ -78,35 +81,48 @@ Correlation in Distributed Scatterer InSAR Applied to Built Scenarios](https://d
 * [24] Ma, P., Wang, W., Zhang, B., Wang, J., Shi, G., Huang, G., Chen, F., Jiang, L., Lin, H., 2019.
 [Remotely sensing large-and small-scale ground subsidence: A case study of the Guangdong–
 Hong Kong–Macao Greater Bay Area of China](https://doi.org/10.1016/j.rse.2019.111282). _Remote Sensing of Environment_, 232,111282.
-* [23] Chen, F., Zhou, W., Chen, C., & Ma, P., 2019. [Extended D-TomoSAR Displacement Monitoring for Nanjing (China) City Built Structure Using High-Resolution TerraSAR/TanDEM-X and Cosmo SkyMed SAR Data](https://doi.org/10.3390/rs11222623). _Remote Sensing_, 11(22), 2623.
+* [23] Chen, F., Zhou, W., Chen, C., & Ma, P., 2019. [Extended D-TomoSAR Displacement Monitoring for Nanjing (China) City
+  Built Structure Using High-Resolution TerraSAR/TanDEM-X and Cosmo SkyMed SAR Data](https://doi.org/10.3390/rs11222623).
+  _Remote Sensing_, 11(22), 2623.
 * [22] Ma, P., Li, T., Fang, C., Lin, H., 2019. [A tentative test for measuring the sub-millimeter
 settlement and uplift of a high-speed railway bridge using COSMO-SkyMed images](https://doi.org/10.1016/j.isprsjprs.2019.06.013). ISPRS
 Journal of Photogrammetry and Remote Sensing, 155, 1-12.
-* [J21] Liu, Y., Ma, P.*, Lin, H., Wang, W., Shi, G., 2019. Distributed Scatterer InSAR Reveals
-Surface Motion of the Ancient Chaoshan Residence Cluster in the Lianjiang Plain, China.
-Remote Sensing, 11, 166.
-* [J20] Ma, P., Liu, Y., Wang, W., Lin, H., 2019. Optimization of PSInSAR networks with application to TomoSAR for full detection of single and double persistent scatterers. Remote Sensing Letters, 10, 717-725.
-* [J19] Shi, G., Lin, H., Bürgmann, R., Ma, P., Wang, J., Liu, Y., 2019. Early soil consolidation from
-magnetic extensometers and full resolution SAR interferometry over highly decorrelated reclaimed lands. Remote Sensing of Environment, 231, 111231.
-* [J18] Zhang, B., Wang, R., Deng, Y., Ma, P., Lin, H., Wang, J., 2019. Mapping the Yellow River Delta land subsidence with multitemporal SAR interferometry by exploiting both persistent
-and distributed scatterers. ISPRS Journal of Photogrammetry and Remote Sensing, 148, 157-173.
-* [J17] Wang, J., Deng, Y., Wang, R., Ma, P., Lin, H., 2019. A Small-Baseline InSAR Inversion Algorithm Combining a Smoothing Constraint and L₁-Norm Minimization. IEEE Geoscience
-and Remote Sensing Letters, 16(7): 1061-1065.
-* [J16] Wang, J., Huang, B., Zhang, H.K., Ma, P., 2019. Sentinel-2A Image Fusion Using a Machine Learning Approach. IEEE Transactions on Geoscience and Remote Sensing, 57, 9589-9601.
-* [J15] Shi, G., Lin, H., Ma, P.*, 2018. A Hybrid Method for Stability Monitoring in Low-Coherence Urban Regions Using Persistent and Distributed Scatterers. IEEE Journal of Selected Topics in Applied Earth Observations and Remote Sensing, 11(10): 3811-3821.
-* [J14] Zhou, L., Chai, D., Xia, Y., Ma, P., 2018. Comparison of optimization algorithms for interferometric synthetic aperture radar phase unwrapping based on identical Markov random fields. Journal of Applied Remote Sensing, 12, 025016.
-* [J13] Sun, Q., Jiang, L., Jiang, M., Lin, H., Ma, P., Wang, H., 2018. Monitoring Coastal
-Reclamation Subsidence in Hong Kong with Distributed Scatterer Interferometry. Remote Sensing, 10, 1738.
-* [J12] Zhou, L., Chai, D., Xia, Y., Ma, P., Lin, H., 2018. Interferometric synthetic aperture radar
-phase unwrapping based on sparse Markov random fields by graph cuts. Journal of Applied Remote Sensing, 12, 015006.
-* [J11] Lin, H., Ma, P.*, 2017. Urban infrastructural health diagnosis with satellite-terrestrial sensing technologies. Annals of GIS, 23(2), 1-8.
-* [J10] Lin Hui, Ma, P.*, Wang Weixi, 2017. Urban Infrastructure Health Monitoring with Spaceborne Multi-temporal Synthetic Aperture Radar Interferometry[J]. Acta Geodaetica et Cartographica Sinica, 46(10), 1421-1433.
-* [J09] Chen, F., Guo, H., Ma, P., Lin, H., Wang, C., Ishwaran, N., Hang, P., 2017. Radar interferometry offers new insights into threats to the Angkor site. Science Advances, 3,e1601284.
-* [J08] Xu, Y., Ren, C., Ma, P., Ho, J., Wang, W., Lau, K.K.-L., Lin, H., Ng, E., 2017. Urban morphology detection and computation for urban climate research. Landscape and Urban Planning, 167, 212-224.
-* [J07] Chen, F., Wu, Y., Zhang, Y., Parcharidis, I., Ma, P., Xiao, R., …, & Foumelis, M., 2017. Surface Motion and Structural Instability Monitoring of Ming Dynasty City Walls by Two-Step Tomo-PSInSAR Approach in Nanjing City, China. Remote Sensing, 9, 371.
-* [J06] Ma, P., Lin, H., 2016. Robust Detection of Single and Double Persistent Scatterers in Urban Built Environments. IEEE Transactions on Geoscience and Remote Sensing, 54, 2124-2139.
-* [J05] Ma, P., Lin, H., Lan, H., Chen, F., 2015. Multi-dimensional SAR tomography for monitoring the deformation of newly built concrete buildings. ISPRS Journal of Photogrammetry and Remote Sensing, 106, 118-128.
-* [J04] Ma, P., Lin, H., Lan, H., Chen, F., 2015. On the performance of reweighted L1 minimization for tomographic SAR imaging. IEEE Geoscience and Remote Sensing Letters, 12, 895-899.
-* [J03] Xu, Y., Ma, P., Ng, E., Lin, H., 2015. Fusion of worldview-2 stereo and multitemporal TerraSAR-X images for building height extraction in urban areas. IEEE Geoscience and Remote Sensing Letters, 12, 1795-1799.
-* [J02] Lin, H., Ma, P.*, & Lan, H. X, 2015. Basic Principles, Key Techniques and Applications of Tomographic SAR Imaging. J. Geomatics, 40, 1-6.
-* [J01] Zhang, H., Ma, P., Wang, C., 2012. A New Function Expansion for Polarization Coherence Tomography. IEEE Geoscience and Remote Sensing Letters, 9, 891-895.
+* [21] Liu, Y., Ma, P.*, Lin, H., Wang, W., Shi, G., 2019. [Distributed Scatterer InSAR Reveals
+Surface Motion of the Ancient Chaoshan Residence Cluster in the Lianjiang Plain, China](https://doi.org/10.3390/rs11020166).
+_Remote Sensing_, 11, 166.
+* [20] Ma, P., Liu, Y., Wang, W., Lin, H., 2019. [Optimization of PSInSAR networks with application to TomoSAR for
+  full detection of single and double persistent scatterers](https://doi.org/10.1080/2150704X.2019.1601276). _Remote Sensing Letters_, 10, 717-725.
+* [19] Shi, G., Lin, H., Bürgmann, R., Ma, P., Wang, J., Liu, Y., 2019. [Early soil consolidation from
+magnetic extensometers and full resolution SAR interferometry over highly decorrelated reclaimed lands](https://doi.org/10.1016/j.rse.2019.111231).
+ _Remote Sensing of Environment_, 231, 111231.
+* [18] Zhang, B., Wang, R., Deng, Y., Ma, P., Lin, H., Wang, J., 2019. [Mapping the Yellow River Delta land subsidence with
+  multitemporal SAR interferometry by exploiting both persistent and distributed scatterers](https://doi.org/10.1016/j.isprsjprs.2018.12.008).
+  _ISPRS Journal of Photogrammetry and Remote Sensing_, 148, 157-173.
+* [17] Wang, J., Deng, Y., Wang, R., Ma, P., Lin, H., 2019. [A Small-Baseline InSAR Inversion Algorithm Combining a Smoothing Constraint
+  and L₁-Norm Minimization](https://doi.org/10.1016/j.isprsjprs.2018.12.008). IEEE Geoscience and Remote Sensing Letters, 16(7): 1061-1065.
+* [16] Wang, J., Huang, B., Zhang, H.K., Ma, P., 2019. [Sentinel-2A Image Fusion Using a Machine Learning Approach](10.1109/TGRS.2019.2927766).
+  _IEEE Transactions on Geoscience and Remote Sensing_, 57, 9589-9601.
+* [15] Shi, G., Lin, H., Ma, P.*, 2018. [A Hybrid Method for Stability Monitoring in Low-Coherence Urban Regions
+  Using Persistent and Distributed Scatterers]( 10.1109/JSTARS.2018.2867832).
+  _IEEE Journal of Selected Topics in Applied Earth Observations and Remote Sensing_, 11(10): 3811-3821.
+* [14] Zhou, L., Chai, D., Xia, Y., Ma, P., 2018. [Comparison of optimization algorithms for interferometric synthetic aperture radar
+  phase unwrapping based on identical Markov random fields](https://doi.org/10.1117/1.JRS.12.025016).
+  _Journal of Applied Remote Sensing_, 12, 025016.
+* [13] Sun, Q., Jiang, L., Jiang, M., Lin, H., Ma, P., Wang, H., 2018. [Monitoring Coastal
+Reclamation Subsidence in Hong Kong with Distributed Scatterer Interferometry](https://doi.org/10.3390/rs10111738).
+_Remote Sensing_, 10, 1738.
+* [12] Zhou, L., Chai, D., Xia, Y., Ma, P., Lin, H., 2018. [Interferometric synthetic aperture radar
+phase unwrapping based on sparse Markov random fields by graph cuts](https://doi.org/10.1117/1.JRS.12.015006).
+ _Journal of Applied Remote Sensing_, 12, 015006.
+* [11] Lin, H., Ma, P.*, 2017. [Urban infrastructural health diagnosis with satellite-terrestrial sensing technologies
+  ](https://doi.org/10.1080/19475683.2017.1325936). _Annals of GIS_, 23(2), 1-8.
+* [10] Lin Hui, Ma, P.*, Wang Weixi, 2017. [Urban Infrastructure Health Monitoring with Spaceborne Multi-temporal Synthetic Aperture Radar Interferometry]( 10.11947/j.AGCS.2017.20170339). _Acta Geodaetica et Cartographica Sinica_, 46(10), 1421-1433.
+* [09] Chen, F., Guo, H., Ma, P., Lin, H., Wang, C., Ishwaran, N., Hang, P., 2017. [Radar interferometry offers new insights into threats to the Angkor site](10.1126/sciadv.160128). _Science Advances_, 3,e1601284.
+* [08] Xu, Y., Ren, C., Ma, P., Ho, J., Wang, W., Lau, K.K.-L., Lin, H., Ng, E., 2017. [Urban morphology detection and computation for urban climate research](https://doi.org/10.1016/j.landurbplan.2017.06.018). _Landscape and Urban Planning_, 167, 212-224.
+* [07] Chen, F., Wu, Y., Zhang, Y., Parcharidis, I., Ma, P., Xiao, R., …, & Foumelis, M., 2017. [Surface Motion and Structural Instability Monitoring of Ming Dynasty City Walls by Two-Step Tomo-PSInSAR Approach in Nanjing City, China](https://doi.org/10.3390/rs9040371). _Remote Sensing_, 9, 371.
+* [06] Ma, P., Lin, H., 2016. [Robust Detection of Single and Double Persistent Scatterers in Urban Built Environments](10.1109/TGRS.2015.2496193). _IEEE Transactions on Geoscience and Remote Sensing_, 54, 2124-2139.
+* [05] Ma, P., Lin, H., Lan, H., Chen, F., 2015. [Multi-dimensional SAR tomography for monitoring the deformation of newly built concrete buildings](https://doi.org/10.1016/j.isprsjprs.2015.04.012). _ISPRS Journal of Photogrammetry and Remote Sensing_, 106, 118-128.
+* [04] Ma, P., Lin, H., Lan, H., Chen, F., 2015. [On the performance of reweighted L1 minimization for tomographic SAR imaging](10.1109/LGRS.2014.2365613). _IEEE Geoscience and Remote Sensing Letters_, 12, 895-899.
+* [03] Xu, Y., Ma, P., Ng, E., Lin, H., 2015. [Fusion of worldview-2 stereo and multitemporal TerraSAR-X images for building height extraction in urban areas](10.1109/LGRS.2015.2427738). _IEEE Geoscience and Remote Sensing Letters_, 12, 1795-1799.
+* [02] Lin, H., Ma, P.*, & Lan, H. X, 2015. Basic Principles, Key Techniques and Applications of Tomographic SAR Imaging. J. Geomatics, 40, 1-6.
+* [01] Zhang, H., Ma, P., Wang, C., 2012. [A New Function Expansion for Polarization Coherence Tomography](0.1109/LGRS.2012.2183113). _IEEE Geoscience and Remote Sensing Letters_, 9, 891-895.
