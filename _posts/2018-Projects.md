@@ -1,7 +1,7 @@
 ---
 title: "Projects"
 collection: posts
-permalink: /posts/2018-Projects
+permalink: /posts/2018/Projects
 # tags:
   # - cool posts
   #  - category1
