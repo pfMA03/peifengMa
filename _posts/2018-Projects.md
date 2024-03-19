@@ -2,10 +2,10 @@
 title: "Projects"
 collection: posts
 permalink: /posts/2018/Projects
-# tags:
-  # - cool posts
-  #  - category1
-   # - category2
+tags:
+  - cool posts
+   - category1
+   - category2
 ---
 
 * 09/2023-08/2026 Landslide deformation monitoring and risk assessment in vegetated
