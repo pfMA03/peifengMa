@@ -8,10 +8,10 @@
 
 # Basic Site Settings
 locale                   : "en-US"
-title                    : "PF-Homepage"
+title                    : "Peifeng Ma-Homepage"
 title_separator          : "-"
 name                     : &name "PF"
-description              : &description "Assistant Professor"
+description              : &description "Vice-Chancellor Assistant Professor"
 url                      : https://pfMA03.github.io/peifengMa/ # the base hostname & protocol for your site e.g. "https://mmistakes.github.io"
 baseurl                  : "" # the subpath of your site, e.g. "/blog"
 repository               : "pfMA03.github.io/peifengMa/"
@@ -22,11 +22,11 @@ repository               : "pfMA03.github.io/peifengMa/"
 author:
   # Biographic information
   avatar           : "profile.png"
-  name             : "PF"
+  name             : "Peifeng Ma"
   pronouns         : # example: "she/her"  
-  bio              : "Assistant Professor"
+  bio              : "Vice-Chancellor Assistant Professor"
   location         : "HongKong"
-  employer         : "University"
+  employer         : "The Chinese University of Hong Kong"
   uri              : # URL
   email            : "none@example.org" 
 
