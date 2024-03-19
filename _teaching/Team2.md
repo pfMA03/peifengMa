@@ -1,5 +1,5 @@
 ---
-title: "Current teanms"
+title: "Current teams"
 collection: teaching
 permalink: /teaching/Team2
 ---
