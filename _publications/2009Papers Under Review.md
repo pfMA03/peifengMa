@@ -1,7 +1,7 @@
 ---
 title: "Papers Under Review"
 collection: publications
-permalink: /publication/2009-10-01-paper-title-number-1
+permalink: /publication/2009-Papers Under Review
 ---
 
 * [W10] Ma, P., Yu, C., Jiao, Z., Zheng, Y., Wu, Z., Mao, W., & Lin, H., 2023. Improving time-
