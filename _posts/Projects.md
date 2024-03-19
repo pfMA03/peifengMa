@@ -1,5 +1,6 @@
 ---
 # title: "Projects"
+collection: posts
 permalink: /posts/Projects
 tags:
   - cool posts
