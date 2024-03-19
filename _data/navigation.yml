@@ -7,7 +7,7 @@ main:
     url: /publications/    
     
   - title: "Projects"
-    url: /posts/
+    url: /posts/Projects
         
   - title: "Patents"
     url: /portfolio/
