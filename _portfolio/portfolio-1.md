@@ -16,7 +16,7 @@ ZL201910429729.3)
 201910286195.3)
 * [01] Xu Y., Ren C., Ma P., Lin H., Yan Yung Ng, 3D Building Extraction Apparatus, Method and
 System (No. US 2018/0075319 A1)
-
+------
 Software Patents
 ------
 * [06] Ma, P., eSat V1.0 (No. 2021Sr0890683)
