@@ -1,5 +1,5 @@
 ---
-# title: 'Projects'
+title: 'Projects'
 # date: 2015-08-14
 permalink: /projects/
 tags:
@@ -7,10 +7,6 @@ tags:
   - category1
   - category2
 ---
-
-
-Research Projects
-------
 * 09/2023-08/2026 Landslide deformation monitoring and risk assessment in vegetated
 subtropical mountains using InSAR and deep learning
 (PI, RGC General Research Fund, HK$ 1,050,310)
