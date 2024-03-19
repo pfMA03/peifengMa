@@ -1,8 +1,6 @@
 ---
-layout: archive
 title: "Projects"
 permalink: /posts/2199-projects
-author_profile: true
 tags:
   - cool posts
    - category1
