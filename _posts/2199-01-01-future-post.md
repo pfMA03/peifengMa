@@ -1,11 +1,10 @@
----
-title: "Projects"
-collection: posts
-permalink: /posts/Projects
+title: 'Future Blog Post'
+date: 2199-01-01
+permalink: /posts/2012/08/blog-post-4/
 tags:
   - cool posts
-   - category1
-   - category2
+  - category1
+  - category2
 ---
 
 * 09/2023-08/2026 Landslide deformation monitoring and risk assessment in vegetated
