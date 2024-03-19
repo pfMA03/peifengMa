@@ -1,7 +1,7 @@
 ---
 title: "Peer-reviewed Conference Papers"
 collection: publications
-permalink: /publication/2010Peer-reviewed Conference Papers
+permalink: /publication/2010-Peer-reviewed Conference Papers
 
 ---
 
