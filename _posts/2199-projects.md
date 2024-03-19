@@ -1,10 +1,10 @@
 ---
-title: 'Projects'
+title: "Projects"
 permalink: /posts/2199-projects
-tags:
-  - cool posts
-   - category1
-   - category2
+# tags:
+#  - cool posts
+#   - category1
+#   - category2
 ---
 
 
