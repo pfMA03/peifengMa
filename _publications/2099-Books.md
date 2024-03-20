@@ -1,6 +1,6 @@
 ---
 title: "Books"
-# collection: publications
+collection: publications
 permalink: /publications/2099-Books
 
 ---
