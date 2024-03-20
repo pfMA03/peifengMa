@@ -1,6 +1,5 @@
 ---
 # title: 'Future Blog Post'
-collection: posts
 permalink: /posts/2199-projects
 tags:
   - cool posts
