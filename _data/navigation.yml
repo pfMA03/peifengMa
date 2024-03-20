@@ -3,11 +3,14 @@ main:
   - title: "CV"
     url: /cv/   
 
+
   - title: "Publications"
     url: /publications/    
+
     
-  - # title: "Projects"
-    # url: /markdown/
+  - title: "Projects"
+    url: /markdown/
+
         
   - title: "Patents"
     url: /portfolio/
@@ -16,5 +19,5 @@ main:
   - title: "Team"
     url: /teaching/
     
-  - title: "Guide"
-    url: /markdown/
+  #- title: "Guide"
+    #url: /markdown/
