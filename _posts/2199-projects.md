@@ -1,11 +1,13 @@
 ---
-title: "Research Projects"
-permalink: /posts/
+title: 'Future Blog Post'
+date: 2199-01-01
+permalink: /posts/2199-projects/
 tags:
- - cool posts
+  - cool posts
   - category1
   - category2
 ---
+
 
 * 09/2023-08/2026 Landslide deformation monitoring and risk assessment in vegetated
 subtropical mountains using InSAR and deep learning
