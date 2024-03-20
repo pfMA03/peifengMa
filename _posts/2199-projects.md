@@ -1,6 +1,7 @@
 ---
 # title: 'Future Blog Post'
-permalink: /posts/2199-projects/
+collection: posts
+permalink: /posts/2199-projects
 tags:
   - cool posts
   - category1
