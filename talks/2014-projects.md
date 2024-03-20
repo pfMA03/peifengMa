@@ -1,7 +1,7 @@
 ---
 title: "Projects"
 collection: talks
-permalink: /talks/2014-03-01-talk-3
+permalink: /talks/2014-projects
 ---
 
 * 09/2023-08/2026 Landslide deformation monitoring and risk assessment in vegetated
