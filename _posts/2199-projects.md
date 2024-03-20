@@ -1,6 +1,5 @@
 ---
-title: 'Future Blog Post'
-date: 2199-01-01
+# title: 'Future Blog Post'
 permalink: /posts/2199-projects/
 tags:
   - cool posts
