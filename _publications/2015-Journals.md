@@ -4,8 +4,7 @@ collection: publications
 permalink: /publication/2015-Journails
 
 ---
-Journals
-------
+
 * [47] Ma, P.*, Wu, Z., Zhang, Z., & Au, F., 2024. [SAR-Transformer-based decomposition of time-
 series InSAR signals for evaluating the impacts of Geotechnical, Meteorological, and Marine conditions
 on the Hong Kong-Zhuhai-Macao Bridge’s deformations](https://doi.org/10.1016/j.rse.2023.113962). _Remote Sensing
