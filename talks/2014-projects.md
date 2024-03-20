@@ -1,5 +1,5 @@
 ---
-title: "Projects"
+# title: "Projects"
 collection: talks
 permalink: /talks/2014-projects
 ---
