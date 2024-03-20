@@ -1,10 +1,11 @@
 ---
-title: "Peer-reviewed Conference Papers"
+# title: "Peer-reviewed Conference Papers"
 collection: publications
 permalink: /publication/2010-Peer-reviewed Conference Papers
 
 ---
-
+Peer-reviewed Conference Papers
+------
 * [13] Wang, Z., Ma, P.*, & Liu, F. A channel phase error compensation algorithm based on the
 strong points analysis for GNSS-based InBSAR systems. In 8th Asia-Pacific Conference on
 Synthetic Aperture Radar, Bali island, Indonesia, 23-27 October 2023
