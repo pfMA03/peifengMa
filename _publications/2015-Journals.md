@@ -11,8 +11,8 @@ series InSAR signals for evaluating the impacts of Geotechnical, Meteorological,
 on the Hong Kong-Zhuhai-Macao Bridge’s deformations](https://doi.org/10.1016/j.rse.2023.113962). _Remote Sensing
 of Environment_, 302, 113962.
 * [46] Wu, Z., Zhang, X., Ye, G., & Ma, P.*, 2024. [Efficient management and processing of massive InSAR images
-  using an HPC-based cloud platform](https://ieeexplore.ieee.org/document/10381745)  _IEEE Journal of Selected Topics
-  in Applied Earth Observations and Remote Sensing_.
+  using an HPC-based cloud platform](https://ieeexplore.ieee.org/document/10381745). _IEEE Journal of Selected Topics
+  in Applied Earth Observations and Remote Sensing_,2866 - 2876.
 * [45] Wu, Z., Zhang, X., Cai, J., Ma, P.*, & Kwan, M.-P., 2023. [Understanding spatially non-stationary effects of
   natural and human-induced factors on land subsidence based on InSAR and multi-source geospatial data: A case study
   in the Guangdong-Hong Kong-Macao Greater Bay Area](https://doi.org/10.1080/17538947.2023.2271882). _International Journal
