@@ -32,9 +32,11 @@ Teaching
 Awards Received by Mentored Students
 ======
 * 2023 1st Place Award, Student Honors Paper Competition, the American Association of Geographers Remote Sensing Specialty Group
-- _(The first time a CUHK student received the prize)_
+
+_(The first time a CUHK student received the prize)_
 * 2023 1st Place, Annual Excellent PhD Dissertation Award, IEEE Geoscience and Remote Sensing Society Hong Kong Chapter
-- _(Awarded to one PhD graduate in geoscience and remote sensing from the Greater Bay Area)_
+
+_(Awarded to one PhD graduate in geoscience and remote sensing from the Greater Bay Area)_
 * 2023 Rising Star in GIS, China University GIS Forum
 - _(Awarded to 12 graduate students nationwide, the only recipient from Hong Kong)_
 * 2023 Excellent Award, The Greater Bay Area Ph.D. and Postdoctoral Innovation and Entrepreneurship Competition
