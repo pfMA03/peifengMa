@@ -31,12 +31,21 @@ Teaching
   
 Awards Received by Mentored Students
 ======
-* First Class, National Surveying and Mapping Science and Technology Progress Award, 2020
-* Remote Sensing Young Talent Award, National Remote Sensing Centre of China, MOST, 2017
-* AXA Post-Doctoral Fellowships, AXA Research Fund, 2016
-* Postgraduate Research Output Award, The Chinese University of Hong Kong, 2016
-* First Class, Yuen-Yuen Scholarship, The Chinese University of Hong Kong, 2015
-* Chen Shupeng Scholarship, The Chinese University of Hong Kong, 2013
+* 2023 1st Place Award, Student Honors Paper Competition, the American Association of Geographers Remote Sensing Specialty Group
+_(The first time a CUHK student received the prize)_
+* 2023 1st Place, Annual Excellent PhD Dissertation Award, IEEE Geoscience and Remote Sensing Society Hong Kong Chapter
+_(Awarded to one PhD graduate in geoscience and remote sensing from the Greater Bay Area)_
+* 2023 Rising Star in GIS, China University GIS Forum
+_(Awarded to 12 graduate students nationwide, the only recipient from Hong Kong)_
+* 2023 Excellent Award, The Greater Bay Area Ph.D. and Postdoctoral Innovation and Entrepreneurship Competition
+_(Awarded to 21 out of 2161 projects, only CUHK project)_
+* 2022 Best Oral Presentation Award, Advanced Urban Remote Sensing Workshop, IEEE Geoscience and Remote Sensing Society
+* 2021 Postgraduate Research Output Award, The Chinese University of Hong Kong
+_(Awarded to one graduate student in the Faculty of Social Science, CUHK)_
+* 2021 The Most Cited Paper, Annals of GIS
+* 2021 Scholarship of MSc in Geo-survey and Public Management, Institute of Space and Earth
+Information Science, University of Hong Kong 
+* 2020 Chen Shupeng Scholarship, Institute of Space and Earth Information Science, The Chinese University of Hong Kong
 
   
 Services/posts
