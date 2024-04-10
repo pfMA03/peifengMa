@@ -1,6 +1,6 @@
 ---
- title: "Invention Patents"
- collection: /portfolio/Invention Patents
+title: "Invention Patents"
+collection: /portfolio/Invention Patents
 ---
 Invention Patents
 ------
