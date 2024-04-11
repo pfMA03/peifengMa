@@ -1,7 +1,7 @@
 ---
 # title: "Journals"
 collection: publications
-permalink: /publication/2015-Journails
+permalink: /publication/2015-Journals
 
 ---
 Journals
