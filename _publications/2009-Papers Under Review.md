@@ -5,19 +5,9 @@ permalink: /publication/2009-Papers Under Review
 ---
 Papers Under Review
 ------
-* [10] Ma, P., Yu, C., Jiao, Z., Zheng, Y., Wu, Z., Mao, W., & Lin, H., 2023. Improving time-
-series InSAR deformation estimation for city clusters by deep learning-based atmospheric
-delay correction. Remote Sensing of Environment. (Major revision)
-* [09] Ma, P., Chen, L., Yu, C., Zhu, Q., Ding, Y., Wu, Z., Li, H., & Tian, C., 2023. Dynamic
-landslide susceptibility mapping over last three decades to uncover variations in landslide
-causation in subtropical urban mountainous areas. Remote Sensing of Environment. (Under
-review)
-* [08] Ma, P., Jiao, Z., & Wu, Z., 2023. Robust monitoring of time-series InSAR deformation by
+* [07] Ma, P., Jiao, Z., & Wu, Z., 2023. Robust monitoring of time-series InSAR deformation by
 integrating variational mode decomposition and gated recurrent units. ISPRS Journal of
 Photogrammetry and Remote Sensing. (Under review)
-* [07] Ma, P., Yu, C., Wu, Z., & Wang, Z., 2023. Mining-related Subsidence Measurements Using
-a Robust Multi-temporal InSAR Method and Logistic Model. IEEE Journal on
-Miniaturization for Air and Space Systems for consideration. (Under review)
 * [06] Zhang, Y., Ma, P.*
 , Jiang, L., & Gao, S., 2023. Time-Resolved Electromagnetic Near-Field
 Scanning: Dual Sparse Sampling in Time and Space. IEEE Transactions on Electromagnetic
