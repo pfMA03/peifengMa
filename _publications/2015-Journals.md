@@ -6,21 +6,21 @@ permalink: /publication/2015-Journals
 ---
 Journals
 ------
-* [51] Zhang, Y., Ma, P.*, Jiang, L., & Gao, S., 2024. [Time-Resolved Electromagnetic Near-Field Scanning: Dual Sparse Sampling in Time and Space](10.1109/TEMC.2024.3381980). _IEEE Transactions on Electromagnetic Compatibility_.
-* [50] P Ma, C Yu, Z Jiao, Y Zheng, Z Wu, W Mao, H Lin, 2024. [Improving time-series InSAR deformation estimation for city clusters by deep learning-based atmospheric delay correction](https://doi.org/10.1016/j.rse.2024.114004). _Remote Sensing of Environment_,304,114004.
-* [49] P Ma, C Yu, Z Wu, Z Wang, J Chen, 2024. [Mining-Related Subsidence Measurements Using a Robust Multi-Temporal InSAR Method and Logistic Model]( 10.1109/JMASS.2024.3381788). -_IEEE Journal on Miniaturization for Air and Space Systems_,2576-3164.
-* [48] Ma, P.*, Wu, Z., Zhang, Z., & Au, F., 2024. [SAR-Transformer-based decomposition of time-
+* [51] Y. Zhang, P. Ma*, L. Jiang, S. Gao, 2024. [Time-Resolved Electromagnetic Near-Field Scanning: Dual Sparse Sampling in Time and Space](10.1109/TEMC.2024.3381980). _IEEE Transactions on Electromagnetic Compatibility_.
+* [50] P. Ma, C. Yu, Z. Jiao, Y. Zheng, Z. Wu, W. Mao, H. Lin, 2024. [Improving time-series InSAR deformation estimation for city clusters by deep learning-based atmospheric delay correction](https://doi.org/10.1016/j.rse.2024.114004). _Remote Sensing of Environment_,304,114004.
+* [49] P. Ma, C. Yu, Z. Wu, Z. Wang, J. Chen, 2024. [Mining-Related Subsidence Measurements Using a Robust Multi-Temporal InSAR Method and Logistic Model]( 10.1109/JMASS.2024.3381788). -_IEEE Journal on Miniaturization for Air and Space Systems_,2576-3164.
+* [48] P. Ma*, z. Wu, Z.,Zhang, F. Au, 2024. [SAR-Transformer-based decomposition of time-
 series InSAR signals for evaluating the impacts of Geotechnical, Meteorological, and Marine conditions
 on the Hong Kong-Zhuhai-Macao Bridge’s deformations](https://doi.org/10.1016/j.rse.2023.113962). _Remote Sensing
 of Environment_, 302, 113962.
-* [47] Wu, Z., Zhang, X., Ye, G., & Ma, P.*, 2024. [Efficient management and processing of massive InSAR images
+* [47] Z. Wu, P. Ma*, X. Zhang, G. Ye, 2024. [Efficient management and processing of massive InSAR images
   using an HPC-based cloud platform](https://ieeexplore.ieee.org/document/10381745). _IEEE Journal of Selected Topics
   in Applied Earth Observations and Remote Sensing_,2866 - 2876.
-* [46] Wu, Z., Zhang, X., Cai, J., Ma, P.*, & Kwan, M.-P., 2023. [Understanding spatially non-stationary effects of
+* [46] Z. Wu, X. Zhang, J. Cai, M.P. Kwan, H. Lin, P. Ma* 2023. [Understanding spatially non-stationary effects of
   natural and human-induced factors on land subsidence based on InSAR and multi-source geospatial data: A case study
   in the Guangdong-Hong Kong-Macao Greater Bay Area](https://doi.org/10.1080/17538947.2023.2271882). _International Journal
   of Digital Earth_, 16(2): 4404-4427.
-* [45] P Ma, L Chen, C Yu, Q Zhu, Y Ding,2023. [Dynamic landslide susceptibility mapping over recent three decades to uncover variations in landslide causes in subtropical urban mountainous areas](https://doi.org/10.48550/arXiv.2308.11929). _arXiv preprint arXiv_, 2308.11929.
+* [45] P. Ma, L. Chen, C. Yu, Q. Zhu, Y. Ding,2023. [Dynamic landslide susceptibility mapping over recent three decades to uncover variations in landslide causes in subtropical urban mountainous areas](https://doi.org/10.48550/arXiv.2308.11929). _arXiv preprint arXiv_, 2308.11929.
 * [44] Chen, F., Guo, H., Ma, P., Tang, Y., Wu, F., Zhu, M., …, & Lin, H., 2023. [Sustainable development of
   World Cultural Heritage sites in China estimated from optical and SAR remotely sensed data](https://doi.org/10.1016/j.rse.2023.113838). _Remote Sensing
   of Environment_, 298: 113838.
