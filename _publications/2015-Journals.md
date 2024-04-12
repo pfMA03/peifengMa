@@ -6,6 +6,7 @@ permalink: /publication/2015-Journals
 ---
 Journals
 ------
+* [51] Zhang, Y., Ma, P.*, Jiang, L., & Gao, S., 2024. [Time-Resolved Electromagnetic Near-Field Scanning: Dual Sparse Sampling in Time and Space](10.1109/TEMC.2024.3381980). _IEEE Transactions on Electromagnetic Compatibility_.
 * [50] P Ma, C Yu, Z Jiao, Y Zheng, Z Wu, W Mao, H Lin, 2024. [Improving time-series InSAR deformation estimation for city clusters by deep learning-based atmospheric delay correction](https://doi.org/10.1016/j.rse.2024.114004). _Remote Sensing of Environment_,304,114004.
 * [49] P Ma, C Yu, Z Wu, Z Wang, J Chen, 2024. [Mining-Related Subsidence Measurements Using a Robust Multi-Temporal InSAR Method and Logistic Model]( 10.1109/JMASS.2024.3381788). -_IEEE Journal on Miniaturization for Air and Space Systems_,2576-3164.
 * [48] Ma, P.*, Wu, Z., Zhang, Z., & Au, F., 2024. [SAR-Transformer-based decomposition of time-
