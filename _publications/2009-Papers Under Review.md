@@ -5,13 +5,9 @@ permalink: /publication/2009-Papers Under Review
 ---
 Papers Under Review
 ------
-* [07] Ma, P., Jiao, Z., & Wu, Z., 2023. Robust monitoring of time-series InSAR deformation by
+* [06] Ma, P., Jiao, Z., & Wu, Z., 2023. Robust monitoring of time-series InSAR deformation by
 integrating variational mode decomposition and gated recurrent units. ISPRS Journal of
 Photogrammetry and Remote Sensing. (Under review)
-* [06] Zhang, Y., Ma, P.*
-, Jiang, L., & Gao, S., 2023. Time-Resolved Electromagnetic Near-Field
-Scanning: Dual Sparse Sampling in Time and Space. IEEE Transactions on Electromagnetic
-Compatibility. (Under review)
 * [05] Zhang, Y., Ma, P.*
 , Jiang, L., & Gao, S., Data-Driven Scheme for Multidimensional
 Harmonic Retrieval Using Recursive Parallel Dynamic Mode Decomposition. IEEE
