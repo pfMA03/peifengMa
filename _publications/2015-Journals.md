@@ -6,6 +6,7 @@ permalink: /publication/2015-Journals
 ---
 Journals
 ------
+* [52] L. Chen, P. Ma*, X. Fan, X. Wang, C. Ng, 2024. [A knowledge-aware deep learning model for landslide susceptibility assessment in Hong Kong](https://doi.org/10.1016/j.scitotenv.2024.173557)._Science of The Total Environment_
 * [51] Y. Zhang, P. Ma*, L. Jiang, S. Gao, 2024. [Time-Resolved Electromagnetic Near-Field Scanning: Dual Sparse Sampling in Time and Space](10.1109/TEMC.2024.3381980). _IEEE Transactions on Electromagnetic Compatibility_.
 * [50] P. Ma, C. Yu, Z. Jiao, Y. Zheng, Z. Wu, W. Mao, H. Lin, 2024. [Improving time-series InSAR deformation estimation for city clusters by deep learning-based atmospheric delay correction](https://doi.org/10.1016/j.rse.2024.114004). _Remote Sensing of Environment_,304,114004.
 * [49] P. Ma, C. Yu, Z. Wu, Z. Wang, J. Chen, 2024. [Mining-Related Subsidence Measurements Using a Robust Multi-Temporal InSAR Method and Logistic Model]( 10.1109/JMASS.2024.3381788). -_IEEE Journal on Miniaturization for Air and Space Systems_,2576-3164.
