@@ -6,6 +6,12 @@ permalink: /publication/2015-Journals
 ---
 Journals
 ------
+* [57] W Mao, P Ma, J Tang, 2024. [Mapping high spatial resolution ionospheric total electron content by integrating Time Series InSAR with International Reference Ionosphere model](https://doi.org/10.1016/j.isprsjprs.2024.06.003)._ISPRS Journal of Photogrammetry and Remote Sensing_.
+* [56] P Ma, X Jiang, 2024. [Mapping vertical and horizonal deformation of the newly reclaimed third runway at Hong Kong International Airport with PAZ, COSMO-SkyMed, and Sentinel-1 SAR images](https://doi.org/10.1016/j.jag.2024.104030)._International Journal of Applied Earth Observation and Geoinformation_.
+* [55] Y Zhang, P Ma, S Gao, L Jiang, 2024. [An Unsupervised Learning Framework for Determining the Excitation Coefficients Using Near-Field Antenna Measurements](10.1109/TEMC.2024.3427682)._IEEE Transactions on Electromagnetic Compatibility_.
+* [55] J Guo, Z Zhang, M Wang, P Ma, W Gao, X Liu, 2024. [Automatic Detection of Subsidence Funnels in Large-Scale SAR Interferograms Based on an Improved-YOLOv8 Model](10.1109/TGRS.2024.3421662)._IEEE Transactions on Geoscience and Remote Sensing 62_,1-17.
+* [54] P Ma, Z Jiao, Z Wu, 2024. [Robust time-series InSAR deformation monitoring by integrating variational mode decomposition and gated recurrent units](10.1109/JSTARS.2024.3426676). _IEEE Journal of Selected Topics in Applied Earth Observations and Remote Sensing_,1-15.
+* [53] Z. Zheng, P. Ma, Z. Wu, 2024. [A context-structural feature decoupling change detection network for detecting earthquake-triggered damage](https://doi.org/10.1016/j.jag.2024.103961)._International Journal of Applied Earth Observation and Geoinformation_
 * [52] L. Chen, P. Ma*, X. Fan, X. Wang, C. Ng, 2024. [A knowledge-aware deep learning model for landslide susceptibility assessment in Hong Kong](https://doi.org/10.1016/j.scitotenv.2024.173557)._Science of The Total Environment_
 * [51] Y. Zhang, P. Ma*, L. Jiang, S. Gao, 2024. [Time-Resolved Electromagnetic Near-Field Scanning: Dual Sparse Sampling in Time and Space](10.1109/TEMC.2024.3381980). _IEEE Transactions on Electromagnetic Compatibility_.
 * [50] P. Ma, C. Yu, Z. Jiao, Y. Zheng, Z. Wu, W. Mao, H. Lin, 2024. [Improving time-series InSAR deformation estimation for city clusters by deep learning-based atmospheric delay correction](https://doi.org/10.1016/j.rse.2024.114004). _Remote Sensing of Environment_,304,114004.
